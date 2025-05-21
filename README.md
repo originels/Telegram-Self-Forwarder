@@ -34,7 +34,7 @@ Here’s what you need to use the self-bot and how to install it:
    Use the following command to clone the GitHub repository:
 
    ```sh
-   git clone https://github.com/UwUhq/Discord-Self-Bot.git
+   git clone https://github.com/UwUhq/Telegram-Self-Forwarder.git
    ```
 
 2. **Install NPM dependencies**  
@@ -45,7 +45,7 @@ Here’s what you need to use the self-bot and how to install it:
    ```
 
 3. **Configure your bot**  
-   Create a `config.json` file in the project directory and enter your Discord token and prefix:
+   Create a `config.json` file in the project folder and enter your Telegram API ID, API hash, source channel ID, and the phone number details linked to your account (country prefix and phone number):
 
    ```json
    {
