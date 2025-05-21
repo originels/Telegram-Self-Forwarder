@@ -1,0 +1,10 @@
+{
+  "session": false,
+  "hash": "YOUR_APP_HASH_HERE",
+  "id": 123456789,
+  "channel": 123456789012345,
+  "phone": {
+    "prefix": "YOUR_COUNTRY_CODE",
+    "number": "PHONE_NUMBER_WITHOUT_PREFIX"
+  }
+}

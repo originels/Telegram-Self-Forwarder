@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "input": "^1.0.1",
+    "telegram": "^2.26.22"
+  },
+  "name": "telegram-self-forwarder",
+  "version": "1.0.0",
+  "description": "This Telegram selfbot script automatically forwards the latest message posted in a source group to all other groups and channels where the Telegram account is a member, at regular intervals. As long as the script is running, it periodically fetches the newest message from the source group and forwards it to each connected group or channel.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth",
+  "license": "MIT"
+}
