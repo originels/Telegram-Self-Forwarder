@@ -34,7 +34,7 @@ Here’s what you need to use the self-bot and how to install it:
    Use the following command to clone the GitHub repository:
 
    ```sh
-   git clone https://github.com/UwUhq/Telegram-Self-Forwarder.git
+   git clone https://github.com/originels/Telegram-Self-Forwarder.git
    ```
 
 2. **Install NPM dependencies**  
