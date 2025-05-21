@@ -65,7 +65,7 @@ Here’s what you need to use the self-bot and how to install it:
 To start the bot, execute the following command:
 
    ```sh
-   node index.js
+   node main.js
    ```
 
 ### Features
