@@ -8,13 +8,9 @@
 
 To set up a local copy of this self-bot and get it running, follow the steps below.
 
-### Prerequisites
-
-Here’s what you need to use the self-bot and how to install it:
-
 ### How to Get the Telegram API ID and API Hash?
 
-- **Node.js**  
+- **How to Get the Telegram API ID and API Hash**  
   Get them by registering an application at [my.telegram.org](https://my.telegram.org).
 
 - **Node.js**  
