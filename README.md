@@ -54,8 +54,8 @@ Here’s what you need to use the self-bot and how to install it:
      "id": 123456789,
      "channel": 123456789012345,
      "phone": {
-          "prefix": "YOUR_COUNTRY_CODE",
-          "number": "PHONE_NUMBER_WITHOUT_PREFIX"
+       "prefix": "YOUR_COUNTRY_CODE",
+       "number": "PHONE_NUMBER_WITHOUT_PREFIX"
      }
    }
    ```
